@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "description": "do some pushups",
+        "status": "todo",
+        "createdAt": "2025-12-06 17:08:35.140325",
+        "updatedAt": "2025-12-06 17:08:35.140352"
+    },
+    {
+        "id": 2,
+        "description": "eat healthy food",
+        "status": "todo",
+        "createdAt": "2025-12-06 17:08:35.140831",
+        "updatedAt": "2025-12-06 17:08:35.140837"
+    },
+    {
+        "id": 3,
+        "description": "do some yoga",
+        "status": "todo",
+        "createdAt": "2025-12-06 17:08:35.141307",
+        "updatedAt": "2025-12-06 17:08:35.141312"
+    },
+    {
+        "id": 4,
+        "description": "do some pushups",
+        "status": "todo",
+        "createdAt": "2025-12-06 17:08:35.141790",
+        "updatedAt": "2025-12-06 17:08:35.141795"
+    },
+    {
+        "id": 5,
+        "description": "do some pushups",
+        "status": "done",
+        "createdAt": "2025-12-06 17:08:35.142280",
+        "updatedAt": "2025-12-07T19:56:51.728213"
+    },
+    {
+        "id": 6,
+        "description": "eat healthy food",
+        "status": "todo",
+        "createdAt": "2025-12-06 17:08:35.142706",
+        "updatedAt": "2025-12-06 17:08:35.142711"
+    },
+    {
+        "id": 7,
+        "description": "do some pullups",
+        "status": "todo",
+        "createdAt": "2025-12-07T19:02:20.516340",
+        "updatedAt": "2025-12-07T19:04:10.289697"
+    }
+]
