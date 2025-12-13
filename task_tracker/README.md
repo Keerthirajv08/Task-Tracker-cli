@@ -11,6 +11,9 @@ task tracker cli in python - that stores tasks in a JSON file
 ## Installation
 No installation required! Just ensure you have Python 3.6+ installed.
 
+## Project URL 
+https://github.com/Keerthirajv08/Task-Tracker-cli.git
+
 ## Usage
 Run the script from the command line:
 
