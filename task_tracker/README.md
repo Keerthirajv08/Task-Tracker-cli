@@ -13,6 +13,7 @@ No installation required! Just ensure you have Python 3.6+ installed.
 
 ## Project URL 
 https://github.com/Keerthirajv08/Task-Tracker-cli.git
+https://github.com/Keerthirajv08/Task-Tracker-cli/tree/main/task_tracker
 
 ## Usage
 Run the script from the command line:
