@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "buy a bmw m8 competitive edition",
+    "amount": 35000000.0,
+    "category": "Machine",
+    "date": "2025-12-12"
+  },
+  {
+    "id": 2,
+    "description": "build an empire",
+    "amount": 1.111111111111111e+17,
+    "category": "empire",
+    "date": "2025-12-12"
+  }
+]
